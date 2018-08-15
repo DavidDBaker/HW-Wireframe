@@ -1,0 +1,35 @@
+header{
+    width: 100%;
+    height: 50px;
+    background-color: #808080;
+}
+
+header p{
+    /* text-align: center;
+    font-size: 24px;
+    line-height: 1.5; */
+    position: relative;
+}
+
+/* nav{
+    background-color: #A9A9A9;
+    width: 90%;
+    align-content: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    margin: 10px;  
+}
+
+ul li{
+    margin-top: 15px;
+}
+
+nav p{
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.5;
+} */
